@@ -58,24 +58,6 @@ The repository also contains useful code snippets that can be reused or referenc
  Some of the snippets include:
 
 [Snippet 1]:
-[JavaScript : Fetch API Description:
-
-This code snippet demonstrates how to use the Fetch API in
-JavaScript to make asynchronous HTTP requests and handle the response data.
-Usage: Use this snippet as a reference 
-when you need to fetch data from an API or server using JavaScript.]
-
-
-[Javascript : File Encryption Description :
-
-This code snippet shows a Python function that
-encrypts a file using the AES encryption algorithm.
-It uses the cryptography library for secure encryption and decryption.
-Usage: Use this snippet as a starting point 
-when you need to encrypt sensitive data or files in your Python projects.]
-
-
-[Snippet 3]:
 [HTML/CSS: Responsive Navigation Menu Description:
 
 This code snippet provides a responsive navigation
@@ -86,30 +68,17 @@ Usage: Use this snippet to quickly implement
 a responsive navigation menu in your web projects.]...
 
 
-[Snippet 3]:
-[Java: Binary Search Algorithm
-
-Description: This code snippet demonstrates the 
-implementation of the binary search algorithm
-in Java. It efficiently searches for a target
-value in a sorted array by repeatedly dividing
-the search space in half.
-Usage: Use this snippet as a reference when
-you need to perform fast searching on sorted 
-arrays in your Java applications.]
-
-
-[Snippet 4]:
+[Snippet 2]:
 [Javascript: User Registration Form Validation
 
 Description: This code snippet illustrates how 
 to validate user input in a registration form 
-using PHP. It checks for common validation 
+using Javascript. It checks for common validation 
 rules such as required fields, valid email address, 
 and password strength.
 Usage: Use this snippet to enhance the 
 security and integrity of user registration 
-forms in your PHP-based web applications.]
+forms in your Javascript web applications.]
 
 
 - 💞️ I’m looking to collaborate on 
