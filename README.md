@@ -11,7 +11,7 @@ Tools: Git
 
 ### Summary
 
-📚 George's blogs: [Medium](https://medium.com/@victorygeorgec123) | [Hashnode.dev](https://georgevictoryc123.hashnode.dev)_
+📚 George's blogs: [Medium](https://medium.com/@victorygeorgec123) | [Hashnode.dev](https://georgevictoryc123.hashnode.dev)
 
 🔭 I’m currently working at PMT.ng as a Junior Software Developer
 
