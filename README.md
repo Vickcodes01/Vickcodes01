@@ -11,7 +11,7 @@ Tools: Git
 
 ### Summary
 
-📚 George's blogs: Dev.to | Hashnode.dev | Medium.com
+📚 George's blogs: [Medium](https://medium.com/@victorygeorgec123) | [Hashnode.dev](https://georgevictoryc123.hashnode.dev)_
 
 🔭 I’m currently working at PMT.ng as a Junior Software Developer
 
@@ -37,7 +37,7 @@ Tools: Git
  
 - - 📫 How to reach me !
 
-[Email address](victorygeorgec123@gmail.com or victorygeorgec001@gmail.com)
+[Email address](victorygeorgec123@gmail.com)
 
 [Twitter](https://twitter.com/GeorgeVictory20)
 
