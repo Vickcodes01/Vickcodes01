@@ -35,7 +35,7 @@ Tools: Git
  
 4. [Relationship between a Product manager and a Software Developer](https://medium.com/@victorygeorgec123/relationship-between-a-software-developed-and-a-product-manager-sd-pm-7c10d57d078a)
  
-- - 📫 How to reach me !
+### 📫 How to reach me !
 
 [Email address](victorygeorgec123@gmail.com)
 
